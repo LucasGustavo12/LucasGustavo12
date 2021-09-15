@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @LucasGustavo12
 - 👀 I’m interested in ... Web development
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning ... Front End
+- 💞️ I’m looking to collaborate on ... Schedule
+- 📫 How to reach me ... lucaspgam@gmail.com 
 
 <!---
 LucasGustavo12/LucasGustavo12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
