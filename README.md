@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LucasGustavo12
-- 👀 I’m interested in ... Web development
+- 👀 I’m interested in ... Back-End JAVA
 - 🌱 I’m currently learning ... Front End
 - 💞️ I’m looking to collaborate on ... Schedule
 - 📫 How to reach me ... lucaspgam@gmail.com 
