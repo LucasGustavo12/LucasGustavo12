@@ -22,7 +22,7 @@
 </div>
 <br>
 
-Sou graduado em analise e Desenvolvimento de Sistemas, atualmente busco trabalho como desenvolvedor back end Java.
+### Sou graduado em análise e Desenvolvimento de Sistemas, atualmente busco trabalho como desenvolvedor back end Java JR.
 
 ## Contato E-mail: 
 <img align="center" alt = "html5" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
