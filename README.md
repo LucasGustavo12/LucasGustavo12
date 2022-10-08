@@ -1,4 +1,4 @@
-### Olá! Eu sou o Lucas Gustavo 👋  Bem vindos ao meu <img align="center" alt = "html5" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+### Olá! meu nome é Lucas Gustavo 👋  Bem vindos ao meu <img align="center" alt = "html5" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 
 
 [![Site](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://lucasgustavo12.github.io/Portifolio/)
